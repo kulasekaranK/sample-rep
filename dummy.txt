@@ -1,1 +1,2 @@
-This is a line in dummy.txt
+This is a line modified in the main branch
+
